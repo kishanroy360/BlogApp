@@ -1,0 +1,24 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "Blog App with crud operation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishanroy360/BlogApp.git"
+  },
+  "author": "Kishan Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishanroy360/BlogApp/issues"
+  },
+  "homepage": "https://github.com/kishanroy360/BlogApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27"
+  }
+}
